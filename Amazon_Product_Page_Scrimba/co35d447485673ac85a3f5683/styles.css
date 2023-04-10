@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.container{
+    display: flex; 
+    flex-direction: row;
+    margin: 10px; 
+}
+
+.title {
+    font-weight: lighter;
+}
+
+
+.breadcrumbs{
+    font-size: 14px;
+    color: #565959; 
+}
+.main-img {
+    box-shadow: 0px 2px 5px lightgray; 
+    width: 320px; 
+    margin-right: 24px;
+}
+
+p{
+    margin-top: -10px;
+}
+
+.ratings{
+    width: 120px; 
+    margin-bottom: 20px;
+}
+
+
+a:link{
+    color:#007185; 
+}
+
+a:visited{
+    color:#007185; 
+}
+
+a:hover{
+    color:blue; 
+}
